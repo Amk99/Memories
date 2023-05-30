@@ -12,10 +12,10 @@ The application uses NodeJs in the backend and React in the Frontend.The databas
 
 <br />
 
-Steps to Run:
--Fork this repo
--Clone repo
--cd to cloned repo
--on command line:
+Steps to Run:<br />
+-Fork this repo<br />
+-Clone repo<br />
+-cd to cloned repo<br />
+-on command line:<br />
 
 npm start for both client and server
